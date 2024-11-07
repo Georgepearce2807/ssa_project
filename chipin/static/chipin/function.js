@@ -1,6 +1,6 @@
 let bed = document.getElementById("bed");
-function shitbed() {
+function support() {
     let p = document.createElement('p');
-    p.textContent = "you have shit the bed. panic";
+    p.textContent = "you have supported the cause";
     bed.appendChild(p);
 }
